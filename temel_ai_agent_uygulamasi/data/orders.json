@@ -1,0 +1,14 @@
+{
+  "ORD-1001": {
+    "urun": "Laptop Standı",
+    "durum": "iptal_edildi"
+  },
+  "ORD-1002": {
+    "urun": "Monitör",
+    "durum": "kargoya_verildi"
+  },
+  "ORD-1003": {
+    "urun": "Mekanik Klavye",
+    "durum": "hazirlaniyor"
+  }
+}
