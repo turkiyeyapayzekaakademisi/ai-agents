@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Ürün fiyatlarına KDV dahil mi?",
+    "answer": "Evet, web sitesinde gösterilen tüm ürün fiyatlarına KDV dahildir."
+  },
+  {
+    "question": "Kargo ücretli mi?",
+    "answer": "1500 TL ve üzeri siparişlerde kargo ücretsizdir. Daha düşük siparişlerde 79 TL kargo ücreti uygulanır."
+  },
+  {
+    "question": "Yurt dışına gönderim yapıyor musunuz?",
+    "answer": "Evet, belirli ülkelere yurt dışı gönderim yapılmaktadır."
+  },
+  {
+    "question": "Ürün iadesi yapabilir miyim?",
+    "answer": "Kullanılmamış ürünler teslim tarihinden itibaren 14 gün içerisinde iade edilebilir."
+  },
+  {
+    "question": "Hangi ödeme yöntemleri geçerli?",
+    "answer": "Kredi kartı, banka kartı ve havale/EFT ile ödeme yapılabilir."
+  }
+]

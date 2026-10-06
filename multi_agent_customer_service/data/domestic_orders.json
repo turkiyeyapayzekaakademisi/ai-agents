@@ -1,0 +1,14 @@
+{
+  "ORD-1001": {
+    "durum": "kargoya_verildi",
+    "kargo_firmasi": "Yurtiçi Kargo",
+    "takip_no": "YK123456",
+    "hedef": "Ankara"
+  },
+  "ORD-1002": {
+    "durum": "hazirlaniyor",
+    "kargo_firmasi": null,
+    "takip_no": null,
+    "hedef": "İstanbul"
+  }
+}

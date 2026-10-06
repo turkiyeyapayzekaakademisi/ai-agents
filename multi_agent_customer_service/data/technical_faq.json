@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Şifremi nasıl sıfırlarım?",
+    "answer": "Giriş ekranındaki Şifremi Unuttum bağlantısını kullanarak kayıtlı e-posta adresinize şifre sıfırlama bağlantısı gönderebilirsiniz."
+  },
+  {
+    "question": "İki faktörlü doğrulama destekleniyor mu?",
+    "answer": "Evet, hesap güvenlik ayarlarından iki faktörlü doğrulama etkinleştirilebilir."
+  },
+  {
+    "question": "Mobil uygulama hangi sistemleri destekliyor?",
+    "answer": "Mobil uygulama Android 10 ve üzeri ile iOS 16 ve üzeri sürümleri desteklemektedir."
+  },
+  {
+    "question": "API erişimi var mı?",
+    "answer": "Kurumsal müşteriler için REST API erişimi sunulmaktadır."
+  },
+  {
+    "question": "Hesabıma giriş yapamıyorum.",
+    "answer": "Öncelikle e-posta ve şifrenizi kontrol edin. Sorun devam ederse şifre sıfırlama işlemini kullanın."
+  }
+]

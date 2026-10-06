@@ -1,0 +1,14 @@
+{
+  "ORD-2001": {
+    "durum": "transit",
+    "kargo_firmasi": "DHL",
+    "takip_no": "DHL987654",
+    "hedef": "Germany"
+  },
+  "ORD-2002": {
+    "durum": "gumrukte",
+    "kargo_firmasi": "UPS",
+    "takip_no": "UPS456789",
+    "hedef": "Netherlands"
+  }
+}
