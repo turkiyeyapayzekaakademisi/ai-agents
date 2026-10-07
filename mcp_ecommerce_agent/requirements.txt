@@ -1,0 +1,4 @@
+langchain[mcp]>=1.4.0
+langchain-ollama
+langgraph
+fastmcp>=4.0.1,<5.0.0

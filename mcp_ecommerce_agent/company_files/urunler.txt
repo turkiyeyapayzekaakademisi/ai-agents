@@ -1,0 +1,74 @@
+ÜRÜN KATALOĞU
+
+1. MacBook Air M3
+
+Ekran:
+13.6 inç Liquid Retina
+
+İşlemci:
+Apple M3
+
+Bellek:
+16 GB RAM
+
+Depolama:
+512 GB SSD
+
+Bağlantılar:
+2 x Thunderbolt / USB 4
+MagSafe 3
+3.5 mm kulaklık girişi
+
+Renk:
+Gece Yarısı
+
+Garanti:
+2 yıl
+
+
+2. Dell UltraSharp U2723QE
+
+Ekran:
+27 inç
+
+Çözünürlük:
+3840 x 2160 4K
+
+Panel:
+IPS Black
+
+Bağlantılar:
+USB-C
+DisplayPort
+HDMI
+USB Hub
+
+USB-C güç:
+90W
+
+Garanti:
+3 yıl
+
+
+3. Logitech MX Master 3S
+
+Ürün tipi:
+Kablosuz mouse
+
+Bağlantı:
+Bluetooth
+Logi Bolt
+
+Şarj:
+USB-C
+
+Özellikler:
+Sessiz tıklama
+MagSpeed elektromanyetik kaydırma tekerleği
+
+Uyumluluk:
+Windows
+macOS
+
+Garanti:
+2 yıl
